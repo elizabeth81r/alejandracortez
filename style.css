@@ -16,7 +16,7 @@
         display: -webkit-box;
         -webkit-box-orient: vertical;
         -webkit-box-flex: 1;
-        background-color: rgb(155, 115, 247);
+        background-color: grey;
     }
 
     a:link {
