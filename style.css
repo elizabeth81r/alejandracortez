@@ -114,3 +114,19 @@
     .footer p{
          padding-bottom: 20px;
     }
+/*.......................................RESIZE SCREEN............................*/
+
+@media (max-width: 768px){
+    .organization {
+        width: 100%;
+     display: -webkit-box;
+        -webkit-box-orient: vertical;
+    }
+    
+    .about .img-container {
+        width: 100%;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+      
+    }
+}
